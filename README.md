@@ -114,6 +114,7 @@
 | **Nuclei** | Lightning-fast, template-based vulnerability scanner by ProjectDiscovery. | ⭐ 22k+ | [Repo](https://github.com/projectdiscovery/nuclei) |
 | **PentestGPT** | LLM-powered assistant that guides you through pentest engagements. | ⭐ 8k+ | [Repo](https://github.com/GreyDGL/PentestGPT) |
 | **Caido** | Modern, lightweight web pentesting proxy — a sleek Burp Suite alternative. | ⭐ 1k+ | [Repo](https://github.com/caido/caido) |
+| **Darkmoon** | Autonomous pentest platform that orchestrates 50 specialist agents over MCP with reproducible proof of exploitation, fully self hosted. | ⭐ 800+ | [Repo](https://github.com/ASCIT31/Dark-Moon) |
 | **BloodHound** | Reveal hidden attack paths in Active Directory using graph theory. | ⭐ 11k+ | [Repo](https://github.com/SpecterOps/BloodHound) |
 | **Sliver** | Cross-platform, open-source C2 (Command & Control) framework. | ⭐ 9k+ | [Repo](https://github.com/BishopFox/sliver) |
 | **ffuf** | Fast web fuzzer in Go — directory, vhost & parameter discovery. | ⭐ 14k+ | [Repo](https://github.com/ffuf/ffuf) |
