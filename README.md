@@ -85,6 +85,7 @@
 | **ECC** | Agent-harness optimization kit — 63 agents & 251 skills for Claude Code, Cursor, Codex & more. | ⭐ 208k+ | [Repo](https://github.com/affaan-m/ECC) |
 | **Agent Reach** | Give your agent eyes on the internet — read & search Twitter, Reddit, YouTube & GitHub, zero API fees. | ⭐ 21k+ | [Repo](https://github.com/Panniantong/Agent-Reach) |
 | **MemPalace** | Local-first AI memory — verbatim recall via semantic search, plugs into Claude Code & MCP. | ⭐ 53k+ | [Repo](https://github.com/MemPalace/mempalace) |
+| **Tale** | Self-hosted alternative to hosted agent workspaces for task delegation and human review of reports and files. | ⭐ 32 | [Repo](https://github.com/tale-project/tale) |
 
 ---
 
