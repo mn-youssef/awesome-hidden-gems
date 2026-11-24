@@ -188,6 +188,7 @@
 |------|----------------|:-----:|------|
 | **SigNoz** | OpenTelemetry-native, all-in-one APM — the open-source Datadog alternative. | ⭐ 22k+ | [Repo](https://github.com/SigNoz/signoz) |
 | **Uptime Kuma** | Self-hosted, beautiful uptime monitoring & status pages. | ⭐ 70k+ | [Repo](https://github.com/louislam/uptime-kuma) |
+| **SiteWatcher** | Self-hosted UptimeRobot alternative with website checks, TLS and domain expiry alerts, and status pages. | ⭐ 2 | [Repo](https://github.com/NikKurkov/sitewatcher) |
 | **Netdata** | Real-time, per-second monitoring for systems & apps with zero config. | ⭐ 73k+ | [Repo](https://github.com/netdata/netdata) |
 | **VictoriaMetrics** | Fast, cost-efficient, scalable Prometheus-compatible TSDB. | ⭐ 13k+ | [Repo](https://github.com/VictoriaMetrics/VictoriaMetrics) |
 | **OpenObserve** | Petabyte-scale observability (logs, metrics, traces) — 140× cheaper storage. | ⭐ 15k+ | [Repo](https://github.com/openobserve/openobserve) |
